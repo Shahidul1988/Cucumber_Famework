@@ -1,0 +1,30 @@
+2022-01-17 18:41:29 INFO  Browser:15 - Our system running on Windows 10 driver is chrome
+2022-01-17 18:41:54 INFO  HomePage:27 - +++++++User is clicking on forum button+++++++
+2022-01-17 18:41:55 INFO  ForumLoginPages:25 - +++++++User is typing the username+++++++
+2022-01-17 18:41:55 INFO  ForumLoginPages:29 - +++++++User is typing the password+++++++
+2022-01-17 18:41:55 INFO  ForumLoginPages:33 - ++++++User is clicking on login button++++
+2022-01-17 18:41:55 INFO  StudentPage:30 - ++++User is clicking on Interview_Questiones button++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:33 - +++++++User is clicking on login button+++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:37 - +++++++User is clicking on selenium button+++++++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:41 - ++++++++User is clicking on cucumber button++++++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:45 - ++++++++User is clicking on behavioral button+++++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:49 - +++++++User is clicking on testNG button++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:53 - ++++++User is clicking on Log4j button++++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:57 - ++++++User is clicking on ITestListner button++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:61 - ++++++User is clicking on API button++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:79 - +++++++User is clicking on Data_Structure button+++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:66 - ++++++++User is clicking on Common_Interview_Q button++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:70 - ++++++User is clicking on sql button++++++
+2022-01-17 18:42:00 INFO  InterviewQuestions:74 - ++++++User is clicking on Student_Page button++++++++
+2022-01-17 18:42:03 INFO  Browser:15 - Our system running on Windows 10 driver is chrome
+2022-01-17 18:43:25 INFO  HomePage:27 - +++++++User is clicking on forum button+++++++
+2022-01-17 18:43:26 INFO  Browser:15 - Our system running on Windows 10 driver is chrome
+2022-01-17 18:43:49 INFO  HomePage:27 - +++++++User is clicking on forum button+++++++
+2022-01-17 18:43:49 INFO  ForumLoginPages:25 - +++++++User is typing the username+++++++
+2022-01-17 18:43:50 INFO  ForumLoginPages:29 - +++++++User is typing the password+++++++
+2022-01-17 18:43:50 INFO  ForumLoginPages:33 - ++++++User is clicking on login button++++
+2022-01-17 18:43:50 INFO  Browser:15 - Our system running on Windows 10 driver is chrome
+2022-01-17 18:44:11 INFO  HomePage:27 - +++++++User is clicking on forum button+++++++
+2022-01-17 18:44:12 INFO  ForumLoginPages:25 - +++++++User is typing the username+++++++
+2022-01-17 18:44:13 INFO  ForumLoginPages:29 - +++++++User is typing the password+++++++
+2022-01-17 18:44:13 INFO  ForumLoginPages:33 - ++++++User is clicking on login button++++
